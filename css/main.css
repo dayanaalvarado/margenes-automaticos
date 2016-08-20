@@ -1,0 +1,29 @@
+/* Agrega aqui tu CSS */
+
+.uno  {
+margin:0px;
+padding: 40px  ;
+border: 20px solid yellow; 
+height:190px;
+width:220px;
+font-style:14px; 
+text-align: center;
+ 
+font-family: lucida;
+
+
+}
+
+.dos  {
+margin:auto;
+margin-bottom: 100px;
+margin-left: 600px;
+padding:40px;
+border: 20px solid yellow; 
+height:190px;
+width:220px;
+font-style:14px;  
+text-align: left;  
+font-family: lucida;
+}
+
